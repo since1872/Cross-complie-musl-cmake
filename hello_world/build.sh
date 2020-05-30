@@ -1,5 +1,5 @@
 
-source /home/odin/.musl_cc/env
+source /home/$USER/.musl_cc/env
 
 set +e
 SHELL_FOLDER=$(cd "$(dirname "$0")";pwd)
