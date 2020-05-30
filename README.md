@@ -9,11 +9,13 @@
 
      tree:  ~/.musl_cc/    
      
-                    -->toolchain
+                    env         
                     
-                    -->xstatic
+                    /toolchain     
                     
-                    -->triptel
+                    /xstatic       
+                    
+                    /triplets
                     
                     
                     
